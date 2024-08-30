@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: May 04, 2020 at 04:47 PM
+-- Generation Time: august 30, 2024 at 04:47 PM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.5
 
@@ -29,8 +29,8 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `instadetails` (
   `id` int(11) NOT NULL,
-  `username` text NOT NULL,
-  `password` text NOT NULL
+  `username` text mannat731875,
+  `password` text sonali
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
